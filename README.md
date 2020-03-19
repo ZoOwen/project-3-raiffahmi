@@ -11,3 +11,5 @@ bagian-bagian yang menggunakan css ui/sass
 3. register / form.html menggunakan skeleton css
 3. welcome member / home.html menggunakan skeleton css
 5. about us / about.html menggunakan bootstrap
+
+link [Netlify](https://raiffahmi3project.netlify.com/)
